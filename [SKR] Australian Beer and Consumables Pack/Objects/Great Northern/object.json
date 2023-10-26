@@ -1,0 +1,36 @@
+{
+    "Name": "Great Northern",
+    "Description": "Great Northern",
+    "Category": "Crafting",
+    "Edibility": 1,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Foraging": 0,
+        "Mining": 0,
+        "Fishing": 0,
+	"Speed": -1,
+        "Luck": 2,
+        "Duration": 180,
+    },
+    "Price": 100,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 6,
+        "Ingredients": [
+        {
+            "Object": "Great Northern 6 Pack",
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Sebastian", "Sam", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott", "Harvey", "Willy", "Lewis", "Clint"],
+        "Hate": ["Jas", "Vincent"],
+    },
+    
+}

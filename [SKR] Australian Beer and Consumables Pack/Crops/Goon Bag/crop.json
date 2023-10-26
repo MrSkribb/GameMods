@@ -1,0 +1,11 @@
+{
+    "Name": "Goon Bag",
+    "Product": "Goon Bag",
+    "SeedName": "Goon Bag",
+    "SeedDescription": "The real deal goon bag fit for a wasted bogan.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Saloon",
+    "SeedPurchasePrice": 400
+}

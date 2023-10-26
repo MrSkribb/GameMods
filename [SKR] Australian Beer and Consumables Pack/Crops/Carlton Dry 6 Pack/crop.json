@@ -1,0 +1,11 @@
+{
+    "Name": "Carlton Dry 6 Pack",
+    "Product": "Carlton Dry 6 Pack",
+    "SeedName": "Carlton Dry 6 Pack",
+    "SeedDescription": "Be uncomplicated. Be like the beer. Carlton Dry",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Saloon",
+    "SeedPurchasePrice": 600
+}

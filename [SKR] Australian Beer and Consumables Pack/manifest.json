@@ -1,0 +1,12 @@
+{
+    "Name": "Australian Beer and Consumables Pack",
+    "Description": "Adds various purchasable Australian beers and more.",
+    "Author": "MrSkribb",
+    "Version": "1.0",
+    "MinimumApiVersion": "3.2.0",
+    "UniqueID": "MrSkribb.AUbeerConPack",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

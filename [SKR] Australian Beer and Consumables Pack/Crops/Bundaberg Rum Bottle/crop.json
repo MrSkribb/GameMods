@@ -1,0 +1,11 @@
+{
+    "Name": "Bundaberg Rum Bottle",
+    "Product": "Bundaberg Rum Bottle",
+    "SeedName": "Bundaberg Rum Bottle",
+    "SeedDescription": "Classic Bundy, tastes like a fight about to happen.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Saloon",
+    "SeedPurchasePrice": 800
+}

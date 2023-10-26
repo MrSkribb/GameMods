@@ -1,0 +1,11 @@
+{
+    "Name": "Winfield Blue 20 Pack",
+    "Product": "Winfield Blue 20 Pack",
+    "SeedName": "Winfield Blue 20 Pack",
+    "SeedDescription": "The iconic Australian Cig, winnie blues",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 400
+}

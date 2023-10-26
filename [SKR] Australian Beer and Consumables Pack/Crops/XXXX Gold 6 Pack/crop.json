@@ -1,0 +1,11 @@
+{
+    "Name": "XXXX Gold 6 Pack",
+    "Product": "XXXX Gold 6 Pack",
+    "SeedName": "XXXX Gold 6 Pack",
+    "SeedDescription": "The perfect beer fit for a Queenslander",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Saloon",
+    "SeedPurchasePrice": 600
+}

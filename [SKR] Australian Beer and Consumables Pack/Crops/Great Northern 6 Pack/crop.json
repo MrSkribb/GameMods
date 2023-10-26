@@ -1,0 +1,11 @@
+{
+    "Name": "Great Northern 6 Pack",
+    "Product": "Great Northern 6 Pack",
+    "SeedName": "Great Northern 6 Pack",
+    "SeedDescription": "The beer from up here.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Saloon",
+    "SeedPurchasePrice": 600
+}

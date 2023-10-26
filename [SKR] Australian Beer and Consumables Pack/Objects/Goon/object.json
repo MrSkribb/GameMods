@@ -1,0 +1,36 @@
+{
+    "Name": "Goon",
+    "Description": "Chug the goon, throw up, use it as a pillow.",
+    "Category": "Crafting",
+    "Edibility": 1,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Foraging": 0,
+        "Mining": 0,
+        "Fishing": 0,
+	"Speed": -1,
+        "Luck": 0,
+        "Duration": 120,
+    },
+    "Price": 100,
+    "IsColored": false,
+    "Recipe":
+    {
+        "ResultCount": 20,
+        "Ingredients": [
+        {
+            "Object": "Goon Bag",
+            "Count": 1,
+        }],
+        "IsDefault": true,
+    },
+    "GiftTastes":
+    {
+        "Love": ["Linus", "Krobus", "Abigail"],
+        "Neutral": ["Robin", "Demetrius", "Pierre", "Penny", "Pam", "Kent", "Elliott"],
+        "Hate": ["Jas", "Vincent", "Harvey", "Willy", "Lewis", "Clint"],
+    },
+    
+}

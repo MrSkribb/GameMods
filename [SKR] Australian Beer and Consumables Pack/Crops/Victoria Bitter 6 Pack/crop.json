@@ -1,0 +1,11 @@
+{
+    "Name": "Victoria Bitter 6 Pack",
+    "Product": "Victoria Bitter 6 Pack",
+    "SeedName": "Victoria Bitter 6 Pack",
+    "SeedDescription": "A real beer for a real man, the VB 6 pack.",
+    "Type": "Flower",
+    "Seasons": ["summer", "fall", "spring", "winter"],
+    "Colors": null,
+    "SeedPurchaseFrom": "Saloon",
+    "SeedPurchasePrice": 600
+}
