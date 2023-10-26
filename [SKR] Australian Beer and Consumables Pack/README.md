@@ -17,3 +17,4 @@ Purchasble from Pierre's General Store:
 - Winfield Blue 20 Pack --> Crafts 20x Winfield Blue Cigarettes (400g)
 
 _More information about the mode can be found at the offical NexusMods page here:_ https://www.nexusmods.com/stardewvalley/mods/18889/
+![image](https://github.com/MrSkribb/GameMods/assets/44088296/6d90e8f9-1ebd-46d6-ba44-cf9d891281d4)
