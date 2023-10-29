@@ -2,7 +2,7 @@
     "Name": "Goon",
     "Description": "Chug the goon, throw up, use it as a pillow.",
     "Category": "Crafting",
-    "Edibility": 1,
+    "Edibility": 10,
     "EdibleIsDrink": true,
     "EdibleBuffs":
     {
@@ -11,7 +11,7 @@
         "Mining": 0,
         "Fishing": 0,
 	"Speed": -1,
-        "Luck": 0,
+        "Luck": 2,
         "Duration": 120,
     },
     "Price": 100,

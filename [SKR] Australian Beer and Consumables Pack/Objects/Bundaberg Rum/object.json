@@ -2,7 +2,7 @@
     "Name": "Bundaberg Rum",
     "Description": "Sip Slowly, Fight Carefully. Increased fighting stats.",
     "Category": "Crafting",
-    "Edibility": 1,
+    "Edibility": 10,
     "EdibleIsDrink": true,
     "EdibleBuffs":
     {
@@ -12,8 +12,8 @@
         "Fishing": 0,
 	"Speed": -1,
         "Luck": 0,
-        "Attack": 3,
-        "Defense": 3,
+        "Attack": 2,
+        "Defense": 2,
         "Duration": 180,
     },
     "Price": 100,

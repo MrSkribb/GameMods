@@ -2,11 +2,11 @@
     "Name": "Victoria Bitter",
     "Description": "Victoria Bitter",
     "Category": "Crafting",
-    "Edibility": 1,
+    "Edibility": 10,
     "EdibleIsDrink": true,
     "EdibleBuffs":
     {
-        "Farming": 0,
+        "Farming": 2,
         "Foraging": 0,
         "Mining": 0,
         "Fishing": 0,

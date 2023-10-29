@@ -2,12 +2,12 @@
     "Name": "Carlton Dry",
     "Description": "Be uncomplicated. Be like the beer. Carlton Dry",
     "Category": "Crafting",
-    "Edibility": 1,
+    "Edibility": 10,
     "EdibleIsDrink": true,
     "EdibleBuffs":
     {
         "Farming": 0,
-        "Foraging": 0,
+        "Foraging": 2,
         "Mining": 0,
         "Fishing": 0,
 	"Speed": -1,
